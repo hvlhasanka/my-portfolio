@@ -25,8 +25,8 @@
         background-color: rgb(0, 139, 173);
       }
 
-      /* FOR SCREENS SMALLER THAN 400px */
-      @media only screen and (max-width: 400px) {
+      /* FOR SCREENS SMALLER THAN 325px */
+      @media only screen and (max-width: 325px) {
         #coverImageSection{
           position: absolute;
           top: 5%;
@@ -34,8 +34,40 @@
         }
 
         #coverImage{
-          width: 200px;
+          width: 40%;
+          height: 40%;
+          border-radius: 3px;
+        }
+
+        #socialMediaButtonSection{
           height: 200px;
+          width: 300px;
+          position: absolute;
+          left: 10%;
+          top: 74%;
+        }
+
+        .buttonStyle{
+          background-color: rgb(7, 86, 105);
+          border-radius: 30px;
+          height: 40px;
+          width: 40px;
+          color: #ffffff;
+          font-size: 15px;
+        }
+      }
+
+      /* FOR SCREENS IN BETWEEN 325px and 370px */
+      @media only screen and (min-width: 325px) and (max-width: 370px) {
+        #coverImageSection{
+          position: absolute;
+          top: 5%;
+          left: 10%;
+        }
+
+        #coverImage{
+          width: 44%;
+          height: 44%;
           border-radius: 3px;
         }
 
@@ -46,10 +78,20 @@
           left: 10%;
           top: 72%;
         }
+
+        .buttonStyle{
+          background-color: rgb(7, 86, 105);
+          border-radius: 30px;
+          height: 50px;
+          width: 50px;
+          color: #ffffff;
+          font-size: 25px;
+        }
       }
 
-      /* FOR SCREENS IN BETWEEN 400px and 750px */
-      @media only screen and (min-width: 400px) and (max-width: 750px) {
+
+      /* FOR SCREENS IN BETWEEN 370px and 420px */
+      @media only screen and (min-width: 370px) and (max-width: 420px) {
         #coverImageSection{
           position: absolute;
           top: 5%;
@@ -57,8 +99,40 @@
         }
 
         #coverImage{
-          width: 250px;
-          height: 250px;
+          width: 47%;
+          height: 47%;
+          border-radius: 3px;
+        }
+
+        #socialMediaButtonSection{
+          height: 200px;
+          width: 300px;
+          position: absolute;
+          left: 10%;
+          top: 72%;
+        }
+
+        .buttonStyle{
+          background-color: rgb(7, 86, 105);
+          border-radius: 30px;
+          height: 50px;
+          width: 50px;
+          color: #ffffff;
+          font-size: 25px;
+        }
+      }
+
+      /* FOR SCREENS IN BETWEEN 420px and 750px */
+      @media only screen and (min-width: 420px) and (max-width: 750px) {
+        #coverImageSection{
+          position: absolute;
+          top: 5%;
+          left: 10%;
+        }
+
+        #coverImage{
+          width: 50%;
+          height: 50%;
           border-radius: 3px;
         }
 
@@ -68,6 +142,15 @@
           position: absolute;
           left: 10%;
           top: 63%;
+        }
+
+        .buttonStyle{
+          background-color: rgb(7, 86, 105);
+          border-radius: 30px;
+          height: 50px;
+          width: 50px;
+          color: #ffffff;
+          font-size: 25px;
         }
       }
 
@@ -81,8 +164,8 @@
         }
 
         #coverImage{
-          width: 280px;
-          height: 280px;
+          width: 50%;
+          height: 50%;
           border-radius: 3px;
         }
 
@@ -92,6 +175,15 @@
           position: absolute;
           left: 10%;
           top: 59%;
+        }
+
+        .buttonStyle{
+          background-color: rgb(7, 86, 105);
+          border-radius: 30px;
+          height: 50px;
+          width: 50px;
+          color: #ffffff;
+          font-size: 25px;
         }
       }
 
@@ -117,15 +209,15 @@
           left: 10%;
           top: 59%;
         }
-      }
 
-      .buttonStyle{
-        background-color: rgb(7, 86, 105);
-        border-radius: 30px;
-        height: 50px;
-        width: 50px;
-        color: #ffffff;
-        font-size: 25px;
+        .buttonStyle{
+          background-color: rgb(7, 86, 105);
+          border-radius: 30px;
+          height: 50px;
+          width: 50px;
+          color: #ffffff;
+          font-size: 25px;
+        }
       }
 
       .buttonStyle:hover{
