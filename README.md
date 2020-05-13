@@ -1,9 +1,17 @@
 # My Portfolio Website
 
-![LUCAS.L.H.H's Portfolio](./screenshots/v0.0.1/desktopView.jpg)
+<p align="center"> 
+  <kbd>
+    <img src="./screenshots/v0.0.1/desktopView.jpg"></img>
+  </kbd>
+</p>
 DESKTOP VIEW
 
-![LUCAS.L.H.H's Portfolio](./screenshots/v0.0.1/mobileView.jpg)
+<p align="center"> 
+  <kbd>
+    <img src="./screenshots/v0.0.1/mobileView.jpg"></img>
+  </kbd>
+</p>
 MOBILE VIEW
 
 [![Netlify Status](https://api.netlify.com/api/v1/badges/dc8a0cbb-6e07-411c-9a68-6097c48b1bec/deploy-status)](https://app.netlify.com/sites/lucaslhhdevops/deploys)
