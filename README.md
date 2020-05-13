@@ -9,6 +9,13 @@
 
 <br>
 
+<p align="center"> 
+  <kbd>
+    <img src="https://github.com/hvlhasanka/my-portfolio/blob/master/screenshots/v0.0.1/mobileView.JPG" height="30%" width="50%"></img>
+  </kbd>
+</p>
+<p align="center">MOBILE VIEW</p>
+
 Netlify Hosting Status: [![Netlify Status](https://api.netlify.com/api/v1/badges/dc8a0cbb-6e07-411c-9a68-6097c48b1bec/deploy-status)](https://app.netlify.com/sites/lucaslhhdevops/deploys)
 
 Website Link: https://lucaslhhdevops.netlify.app
