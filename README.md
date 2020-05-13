@@ -9,7 +9,7 @@
 
 <br>
 
-[![Netlify Status](https://api.netlify.com/api/v1/badges/dc8a0cbb-6e07-411c-9a68-6097c48b1bec/deploy-status)](https://app.netlify.com/sites/lucaslhhdevops/deploys)
+Netlify Hosting Status: [![Netlify Status](https://api.netlify.com/api/v1/badges/dc8a0cbb-6e07-411c-9a68-6097c48b1bec/deploy-status)](https://app.netlify.com/sites/lucaslhhdevops/deploys)
 
 Website Link: https://lucaslhhdevops.netlify.app
 
