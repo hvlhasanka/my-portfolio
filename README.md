@@ -2,14 +2,14 @@
 
 <p align="center"> 
   <kbd>
-    <img src="./screenshots/v0.0.1/desktopView.jpg"></img>
+    <img src="https://github.com/hvlhasanka/my-portfolio/blob/master/screenshots/v0.0.1/desktopView.JPG"></img>
   </kbd>
 </p>
 DESKTOP VIEW
 
 <p align="center"> 
   <kbd>
-    <img src="./screenshots/v0.0.1/mobileView.jpg"></img>
+    <img src="https://github.com/hvlhasanka/my-portfolio/blob/master/screenshots/v0.0.1/mobileView.JPG"></img>
   </kbd>
 </p>
 MOBILE VIEW
